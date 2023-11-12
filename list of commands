@@ -59,6 +59,7 @@ _A list of Git commands_
 after creating repos locally and remote we have to give following commands 
 git remote add origin git@github.com:<github-username>/<repo-name>
 git push --set-upstream origin master
+now it will sync we can start pull push commands
 
 
 ### Branching & Merging
