@@ -55,6 +55,11 @@ _A list of Git commands_
 | Restore a file to a previous commit| `git checkout <file/to/restore>` |
 
 
+## git local to remote sync (how to add that locally created folder into git hub)
+after creating repos locally and remote we have to give following commands 
+git remote add origin git@github.com:<github-username>/<repo-name>
+git push --set-upstream origin master
+
 
 ### Branching & Merging
 
